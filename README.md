@@ -22,3 +22,5 @@ Replace index.html on your host (same link). Open the app online and tap "Check 
 - Measurement history with one-tap restore
 - Sewing history and payment history per client (numbered, permanent records)
 - Sewing and payment records can be edited or deleted (v1.3.1)
+- v1.4.0: returning clients (Add to job / visits), password for edit and delete, junk basket
+- v1.5.0: every visit is a full record (measurements, payments, photos); visit history, visit report and all-visits CSV
