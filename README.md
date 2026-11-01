@@ -15,3 +15,10 @@ Follow "How to set up" inside the app (free Google Cloud Console steps). Use you
 
 ## Updating the app
 Replace index.html on your host (same link). Open the app online and tap "Check for update". Client data is not touched by updates.
+
+## Add-ons (v1.2.0)
+- WhatsApp messages to clients (outfit ready, balance reminder, fitting)
+- Printable receipts (Print / Save as PDF)
+- Measurement history with one-tap restore
+- Sewing history and payment history per client (numbered, permanent records)
+- Sewing and payment records can be edited or deleted (v1.3.1)
